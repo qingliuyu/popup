@@ -1,0 +1,12 @@
+.popup-mask { display:none; opacity:0.8; background-color:#6AFB92; position:fixed; top:0; left:0; width:100%; height:100%; text-align:center; }
+.popup-mask .popup-box { background-color:#f00; top:50%; left:50%; position:absolute;}
+.popup-mask .popup-box .popup-title { position:relative; cursor:move; height:30px; background-color:#F76541;}
+/*
+.popup-mask .popup-box .popup-title:hover{ cursor:move;}
+*/
+.popup-mask .hand { cursor:hand; }
+/*
+body,h3{padding:0; margin:0;}
+	.popup-bg{display:none; opacity:0.8; background-color:#6AFB92; position:fixed; top:0; left:0; width:100%; height:100%; text-align:center; }
+	.popup-bg .popup-box{ width:450px; height:300px; background-color:#f00; top:50%; left:50%; position:absolute; margin-left:-225px; margin-top:-150px;}
+*/
